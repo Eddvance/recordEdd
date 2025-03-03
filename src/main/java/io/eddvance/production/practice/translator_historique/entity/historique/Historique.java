@@ -8,6 +8,7 @@ public class Historique {
 
     public Historique() {
     }
+
     public Historique(Long histoNumber, String histoLangue, String histoDate) {
         this.histoNumber = histoNumber;
         this.histoLangue = histoLangue;
